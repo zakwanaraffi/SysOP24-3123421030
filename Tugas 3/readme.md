@@ -2,7 +2,7 @@
 
 
 ## Daftar Tugas
-- [Klik di sini](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%203#daftar-tugas)
+- [Mind Map](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%203#mind-map)
 
 ## Mind Map
 ![20240309_235400_0000](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/7afd142f-51c8-4c85-92a2-0e58b3fdb628)
