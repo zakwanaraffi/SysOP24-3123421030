@@ -60,25 +60,25 @@ Generasi Keempat (1980-sekarang):
 •	Contoh: Windows, macOS, Linux, dan Android.
 
 5. elemen kunci dari sistem operasi:
-1. Manajemen Memori: 
+   - Manajemen Memori: 
 Sistem operasi bertanggung jawab untuk mengelola memori komputer, termasuk mengalokasikan memori ke program yang sedang berjalan dan membebaskannya saat program selesai.
-2. Manajemen Proses: 
+   - Manajemen Proses: 
 Sistem operasi bertanggung jawab untuk membuat, menjadwalkan, dan menghentikan proses. Proses adalah program yang sedang berjalan. Sistem operasi juga bertanggung jawab untuk memastikan bahwa proses tidak saling mengganggu.
-3. Manajemen File: 
+   - Manajemen File: 
 Sistem operasi bertanggung jawab untuk mengatur penyimpanan data di disk. Ini termasuk membuat dan menghapus file, serta mengelola akses ke file.
-4. Manajemen Perangkat: 
+   - Manajemen Perangkat: 
 Sistem operasi bertanggung jawab untuk mengontrol perangkat keras komputer, seperti printer, disk drive, dan port USB. Ini termasuk memuat driver perangkat dan menangani interupsi perangkat keras.
-5. Keamanan: 
+   - Keamanan: 
 Sistem operasi bertanggung jawab untuk melindungi komputer dari akses yang tidak sah dan malware. Ini termasuk mengelola akun pengguna, menerapkan kontrol akses, dan memantau aktivitas sistem.
-6. Antarmuka Pengguna: 
+   - Antarmuka Pengguna: 
 Sistem operasi menyediakan antarmuka bagi pengguna untuk berinteraksi dengan komputer. Ini dapat berupa antarmuka baris perintah atau antarmuka pengguna grafis (GUI).
-7. Jaringan: 
+   - Jaringan: 
 Sistem operasi menyediakan dukungan untuk jaringan, memungkinkan komputer untuk berkomunikasi satu sama lain. Ini termasuk mengelola alamat IP, routing data, dan koneksi jaringan.
-8. Utilitas: 
+   - Utilitas: 
 Sistem operasi menyediakan berbagai utilitas untuk membantu pengguna, seperti program defragmentasi disk, antivirus, dan backup.
-9. Layanan Sistem: 
+   - Layanan Sistem: 
 Sistem operasi menyediakan berbagai layanan sistem, seperti logging, manajemen waktu, dan debugging.
-10. Portabilitas: 
+    - Portabilitas: 
 Sistem operasi memungkinkan program untuk dijalankan di berbagai jenis perangkat keras.
 
 6. Generasi Pertama (1940-1956):
