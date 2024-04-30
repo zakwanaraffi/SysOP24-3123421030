@@ -4,14 +4,14 @@
 ## Daftar Tugas
 
 
-### Mind Map
+## Mind Map
 ![20240309_235400_0000](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/7afd142f-51c8-4c85-92a2-0e58b3fdb628)
 
 
 ![Brown Illustrative Mind Mapping Brainstorm](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/6c155a7d-a4d6-4e32-93c3-c314b57f2bb0)
 
 
-#### Langkah Siklus CPU
+## Langkah Siklus CPU
 <img width="717" alt="Tangkapan Layar 2024-03-25 pukul 21 38 40" src="https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/4111298e-625a-4475-9508-f555485bbab0">
 
 Ambil alamat 0 kemudian baca nilainya di alamat 0 load 6 dan jalankan di alamat 6
@@ -31,7 +31,7 @@ proses fetch menggunakan addres 2, dekode, dan baca nilai di addres 2, yang memi
 Proses fetch mengambil nilai 3, membaca instruksi di addres 3, jump 1, dan kemudian melakukan value jump dengan kata lain, ia melompat ke addres 1, sehingga nilai di addres 0 tidak lagi diambil. Proses ini adalah yang terakhir dan proses  kembali  ke value add 7 seperti proses 2
 
 
-##### Pengertian dan Peran Sistem Operasi
+## Pengertian dan Peran Sistem Operasi
 ![1](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/5dbe91a8-5774-4403-b4ae-e4a9ed9b1e10)
 ![2](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/ed14979f-4616-42f9-81c5-ad3e9a0f64df)
 ![3](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/b65a8e7d-fc04-4b63-bce2-8ba375e0fdef)
