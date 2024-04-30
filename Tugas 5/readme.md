@@ -6,7 +6,7 @@
 - [fork02](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%205#fork02)
 - [fork03](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%205#fork03)
 
-## cloning Repository
+## Cloning Repository
 Buat tulisan tentang konsep fork dan implementasinya dengan menggunakan bahasa pemrograman C! (minimal 2 paragraf disertai dengan gambar)
 Akses dan clonning repo : https://github.com/ferryastika/operatingsystem.git
 Deskripsikan dan visualisasikan pohon proses hasil eksekusi dari kode program fork01.c, fork02.c, fork03.c,
