@@ -19,6 +19,7 @@ NRP    : 3123521030
 15.	Apa perbedaan antara perangkat lunak sistem dan perangkat lunak aplikasi?
 
 
+Jawab :
 
 
 
