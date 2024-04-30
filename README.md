@@ -1,5 +1,4 @@
-Tentang Projek
-Repository untuk menyimpan semua tugas pada mata kuliah Workshop Administrasi Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc (@ferryastika).
+
 
 
 Nama: Muhammad Zakwana Raffi Priwangga
