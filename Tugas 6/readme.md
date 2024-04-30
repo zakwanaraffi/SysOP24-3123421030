@@ -1,6 +1,8 @@
 # Tugas 6
 
 ## Daftar Tugas 
+- [CISC](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%206#cisc)
+- [RISC](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%206#risc)
 
 ## CISC
 CISC (Complex Instruction Set Computer) dan RISC (Reduced Instruction Set Computer) adalah dua jenis arsitektur komputer yang berbeda. Perbedaan utama antara keduanya terletak pada jumlah dan kompleksitas instruksi yang mereka gunakan.
