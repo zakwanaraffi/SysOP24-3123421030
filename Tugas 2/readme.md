@@ -1,6 +1,11 @@
 # Tugas 2
 
 ## Daftar
+- [Tekan Tombol Daya](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%202#1-tekan-tombol-daya)
+- [Bootloader](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%202#2-bootloader)
+- [Memuat macOS](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%202#3-memuat-macos)
+- [Tampilan Login](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%202#4-tampilan-login)
+- [Desktop](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%202#5-desktop)
 
 Tahapan Proses Booting MacBook Air M1:
 ## 1. Tekan Tombol Daya:
