@@ -1,5 +1,7 @@
 Nama : Muhammad Zakwana Raffi Priwangga
+
 Kelas   : 1 D3-TI A PSDKU-LA 
+
 NRP    : 3123521030
 
 1.	Apa hubungan antara perangkat lunak aplikasi dan sistem operasi?
