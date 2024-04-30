@@ -3,7 +3,7 @@
 
 ## Daftar Tugas
 - Tugas 3
-- Daftar Tugas
+- https://github.com/zakwanaraffi/SysOP24-3123521030/blob/main/Tugas%203/readme.md#daftar-tugas
 - Mind Map
 
 ## Mind Map
