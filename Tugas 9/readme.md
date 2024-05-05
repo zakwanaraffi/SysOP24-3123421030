@@ -1,3 +1,5 @@
+## Menerjemahkan Artikel
+
 printf (“HELLO WORD!”); Bagian terbaik tentang pemrograman komputer adalah semua masalahnya berhubungan dengan dunia nyata; program dan perangkat lunak komputer adalah solusi untuk memenuhi kebutuhan sehari-hari Anda dan saya mulai dari pemesanan makanan online, belanja, media sosial, pemesanan tiket, dan lainnya!
 
 Jadi, Misalkan Anda adalah pemilik toko Roti bernama “Bakes and Bytes”; dan kamu bisa membuat maksimal 50 kue karena kamu belum mempunyai oven yang besar. Sekarang, Anda memiliki beberapa pelanggan untuk membelinya, tapi mari kita pertimbangkan hanya satu pelanggan. Toko roti Anda canggih dan karenanya memiliki sistem manajemen yang hebat seperti kode yang diberikan.
