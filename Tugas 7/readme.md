@@ -16,3 +16,5 @@ masuk ke directory operatingsystem dengan mengetik cd operatingsyystem lalu menj
 ## Zombie
 ![Tangkapan Layar 2024-04-30 pukul 08 37 19](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/c8edc159-525c-48c4-a573-a4a0aa0a3e29)
 
+zombie.c output program tersebut yaitu Program ini membuat proses menggunakan fork(), dan jika proses tersebut parent process, maka ia akan tidur selama 60 detik (sleep(60)). Namun, jika proses tersebut adalah child process, maka program akan keluar secara langsung
+
