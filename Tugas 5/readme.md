@@ -67,14 +67,16 @@ Analisa
 Output program menampilkan ID proses (PID) mereka sendiri dan nilai variabel x dalam loop tak terbatas. Program menggunakan system call fork() untuk membuat proses saat ini, dan menciptakan child process.
 
 ## fork02
-![2](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/637015d1-991b-4db7-8c13-84dcd7f6221a)
+![2](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/e76770d9-8446-4632-a606-051a72f1db67)
+
 
 ![f2](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/c77d8acb-8d7f-43e5-b04e-3b4efdcf18d2)
 
 Program di atas melakukan proses forking secara berulang sebanyak lima kali. Setiap kali proses forking dilakukan, program mencatat ID proses (PID) dari setiap proses yang dihasilkan. Jika terdapat PID yang berulang, itu menandakan bahwa proses utama telah melakukan forking beberapa kali, menghasilkan beberapa proses anak dengan PID yang sama.
 
 ## fork03
-![3](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/ef38a95c-7914-467a-b845-1021f6b3d8d8)
+![3](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/6743cfb2-3e53-475e-8075-6e628d6835fa)
+
 
 ![f3](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/39d3f4d0-84c3-4aca-87fd-f7051a4f3e23)
 
