@@ -22,7 +22,8 @@ Perintah sudo apt install gcc g++ digunakan untuk menginstal compiler GNU untuk 
 
 <img width="814" alt="Tangkapan Layar 2024-04-22 pukul 20 31 50" src="https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/067d8fa3-68ba-4fbe-8f36-6fcd8dda85c4">
 
-![1](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/ac0c67e9-aa06-4c4c-b06e-440605769b97)
+![1](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/6c1ab502-3c4c-487f-8390-6c43e02c7fd5)
+
 
 ![f 1](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/e3ae6098-7d9b-4a7b-b66d-147eaa454fb2)
 
