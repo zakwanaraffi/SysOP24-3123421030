@@ -77,3 +77,5 @@ Program di atas melakukan proses forking secara berulang sebanyak lima kali. Set
 
 ![f3](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/39d3f4d0-84c3-4aca-87fd-f7051a4f3e23)
 
+Output program diatas melakukan proses forking secara looping (berulang) sebanyak 5 kali, yang menghasilkan proses-proses baru dengan pesan yang mencatat ID proses (PID) masing-masing. Adanya beberapa PID yang berulang menandakan bahwa parent process melakukan fork beberapa kali, menghasilkan proses-proses child dengan PID yang sama.
+
