@@ -9,7 +9,7 @@
 ![f](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/7763fafb-bb0f-4741-a6e2-b3baf54a11e0)
 
 
-masuk ke directory operatingsystem dengan mengetik cd operatingsyystem lalu menjalankan prooses forking dengan mengetikan perintah ./forking.exe, Perintah g++ forking.c -o forking.exe adalah perintah untuk mengompilasi file sumber C yang disebut forking.c menggunakan compiler g++ dan menghasilkan executable dengan nama forking.exe. untuk orphan dan zombie proses nya sama
+masuk ke directory operatingsystem dengan mengetik cd operatingsyystem lalu menjalankan prooses forking dengan mengetikan perintah ./forking, Perintah g++ forking.c -o forking.exe adalah perintah untuk mengompilasi file sumber C yang disebut forking.c menggunakan compiler g++ dan menghasilkan executable dengan nama forking.exe. untuk orphan dan zombie proses nya sama
 
 ## Orphan
 ![o](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/840cba60-40ce-46b5-89e9-4a113faf92e1)
