@@ -14,7 +14,7 @@ masuk ke directory operatingsystem dengan mengetik cd operatingsyystem lalu menj
 ## Orphan
 ![o](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/840cba60-40ce-46b5-89e9-4a113faf92e1)
 
-Program diatas untuk menjalankan parent process dan child process
+Program diatas untuk menjalankan child process
 
 
 ## Zombie
