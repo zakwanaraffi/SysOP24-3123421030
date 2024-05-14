@@ -4,7 +4,7 @@ Threads
 
 Practice Exercises
 
-4.1 Provide three programming examples in which multithreading provides better performance than a single-threaded solution.
+*4.1 Provide three programming examples in which multithreading provides better performance than a single-threaded solution.*
 
 Answer:
 a. A Web server that services each request in a separate thread.
