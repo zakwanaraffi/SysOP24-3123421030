@@ -8,14 +8,18 @@ Practice Exercises
 
 Answer:
 a. A Web server that services each request in a separate thread.
+
 b. A parallelized application such as matrix multiplication where different parts of the matrix may be worked on in parallel.
+
 c. An interactive GUI program such as a debugger where a thread is used to monitor user input, another thread represents the running application, and a third thread monitors performance.
 
 **4.2 What are two differences between user-level threads and kernel-level threads? Under what circumstances is one type better than the other?**
 
 Answer:
 a. User-level threads are unknown by the kernel, whereas the kernel is aware of kernel threads.
+
 b. On systems using either M:1 or M:N mapping, user threads are scheduled by the thread library and the kernel schedules kernel threads.
+
 c. Kernel threads need not be associated with a process whereas every user thread belongs to a process. Kernel threads are generally more expensive to maintain than user threads as they must be represented with a kernel data structure.
 
 **4.3 Describe the actions taken by a kernel to context-switch between kernel-level threads.**
@@ -41,14 +45,18 @@ Latihan
 
 Menjawab:
 a. Server Web yang melayani setiap permintaan dalam thread terpisah.
+
 b. Aplikasi yang diparalelkan seperti perkalian matriks di mana bagian-bagian matriks yang berbeda dapat dikerjakan secara paralel.
+
 c. Sebuah program GUI interaktif seperti debugger dimana thread digunakan untuk memonitor input pengguna, thread lain mewakili aplikasi yang sedang berjalan, dan thread ketiga memonitor kinerja.
 
 **4.2 Apa dua perbedaan antara thread tingkat pengguna dan thread tingkat kernel? Dalam kondisi apa satu jenis lebih baik dibandingkan jenis lainnya?**
 
 Menjawab:
 a. Thread tingkat pengguna tidak diketahui oleh kernel, sedangkan kernel mengetahui thread kernel.
+
 b. Pada sistem yang menggunakan pemetaan M:1 atau M:N, thread pengguna dijadwalkan oleh pustaka thread dan kernel menjadwalkan thread kernel.
+
 c. Kernelthread tidak perlu dikaitkan dengan suatu proses, sedangkan setiap thread pengguna termasuk dalam suatu proses. Pemeliharaan thread kernel umumnya lebih mahal daripada thread pengguna karena harus direpresentasikan dengan struktur data kernel.
 
 **4.3 Jelaskan tindakan yang diambil oleh kernel untuk beralih konteks antar thread tingkat kernel.**
