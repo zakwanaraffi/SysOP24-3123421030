@@ -3,7 +3,7 @@
 
 ## Perbedaan Serial, Parallel, Concurent dan Concurent Parallel
 
-1.
+1. [ Parallel ] (https://github.com/zakwanaraffi/SysOP24-3123521030/blob/main/Tugas%2011%20/readme.md#parallel)
 2.
 3.
 
