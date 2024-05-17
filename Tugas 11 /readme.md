@@ -1,7 +1,3 @@
-Commit new file
-[ Add example code for producer-consumer problem ]  // Kolom pertama (pesan singkat)
-[ Optional extended description ]                   // Kolom kedua (opsional)
-
 
 **Daftar Tugas**
 
