@@ -4,14 +4,14 @@
 ## Perbedaan Serial, Parallel, Concurent dan Concurent Parallel
 
 1. [ Parallel ](https://github.com/zakwanaraffi/SysOP24-3123521030/blob/main/Tugas%2011%20/readme.md#parallel)
-2.
-3.
+2. [ Concurent ](https://github.com/zakwanaraffi/SysOP24-3123521030/blob/main/Tugas%2011%20/readme.md#concurent)
+3. [ Parallel dan Concurent ](https://github.com/zakwanaraffi/SysOP24-3123521030/blob/main/Tugas%2011%20/readme.md#paraller-dan-concurent)
 
 ## Problem
 
-1.
-2.
-3.
+1. [ Bounded-Buffer Problem ](https://github.com/StalisAhmadSholeh/SysOP24-3123521010/tree/main/PEKAN%2012%20/Problem#bounded-buffer-problem)
+2. [ Readers and Writers Problem ](https://github.com/StalisAhmadSholeh/SysOP24-3123521010/tree/main/PEKAN%2012%20/Problem#readers-and-writers-problem)
+3. [ Dining Philosopher s Problem ](https://github.com/StalisAhmadSholeh/SysOP24-3123521010/tree/main/PEKAN%2012%20/Problem#dining-philosopher-s-problem)
 
 ![Tangkapan Layar 2024-05-17 pukul 07 49 55](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/d15ab585-5c27-4db8-ae2b-70ed64b8cc64)
 
