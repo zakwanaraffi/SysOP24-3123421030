@@ -108,12 +108,7 @@ void consumer()
 }
 
 
-/*
 
-Producer consumer problem is also known as bounded buffer problem. In this problem we have two processes, producer and consumer, who share a fixed size buffer. Producer work is to produce data or items and put in buffer. Consumer work is to remove data from buffer and consume it. We have to make sure that producer do not produce data when buffer is full and consumer do not remove data when buffer is empty.
-
-The producer should go to sleep when buffer is full. Next time when consumer removes data it notifies the producer and producer starts producing data again. The consumer should go to sleep when buffer is empty. Next time when producer add data it notifies the consumer and consumer starts consuming data. This solution can be achieved using semaphores.
-*/
 
 Pada implementasi ini, ketika buffer penuh, produsen akan masuk ke dalam mode tidur. Ketika konsumen menghapus data dari buffer, ia memberi tahu produsen sehingga produsen dapat mulai menghasilkan data lagi. Begitu juga sebaliknya, ketika buffer kosong, konsumen akan masuk ke dalam mode tidur. Ketika produsen menambahkan data ke dalam buffer, ia memberi tahu konsumen sehingga konsumen dapat mulai mengonsumsi data. Solusi ini dapat dicapai menggunakan Semaphore.
 
