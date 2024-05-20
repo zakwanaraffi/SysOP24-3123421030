@@ -10,8 +10,8 @@
 ## Problem
 
 1. [ Bounded-Buffer Problem ](https://github.com/zakwanaraffi/SysOP24-3123521030/blob/main/Tugas%2011%20/readme.md#bounded-buffer-problem)
-2. [ Readers and Writers Problem ]()
-3. [ Dining Philosopher s Problem ]()
+2. [ Readers and Writers Problem ](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%2011%20#readers-and-writers-problem)
+3. [ Dining Philosopher s Problem ](https://github.com/zakwanaraffi/SysOP24-3123521030/tree/main/Tugas%2011%20#dining-philosopher-s-problem)
 
 ![Tangkapan Layar 2024-05-17 pukul 07 49 55](https://github.com/zakwanaraffi/SysOP24-3123521030/assets/160553582/d15ab585-5c27-4db8-ae2b-70ed64b8cc64)
 
